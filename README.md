@@ -1,4 +1,4 @@
- 👋 Hey there, my name's Darian Lawrence, but I go by Darian L. for short. I'm a junior software developer always striving to improve. 
+ 👋 Hey there, my name's Darian Lawrence, but I go by Darian L. for short. I'm a software developer, engineer, and gamer. 
  
  🖊️ My skills include: Python, HTML, CSS, and Linux.
  
